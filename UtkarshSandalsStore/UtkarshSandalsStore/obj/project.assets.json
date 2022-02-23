@@ -7254,11 +7254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W0785541\\source\\repos\\original_23\\UtkarshSandalsStore\\UtkarshSandalsStore\\UtkarshSandalsStore.csproj",
+      "projectUniqueName": "C:\\Users\\W0785541\\source\\repos\\a\\UtkarshSandalsStore\\UtkarshSandalsStore\\UtkarshSandalsStore.csproj",
       "projectName": "UtkarshSandalsStore",
-      "projectPath": "C:\\Users\\W0785541\\source\\repos\\original_23\\UtkarshSandalsStore\\UtkarshSandalsStore\\UtkarshSandalsStore.csproj",
+      "projectPath": "C:\\Users\\W0785541\\source\\repos\\a\\UtkarshSandalsStore\\UtkarshSandalsStore\\UtkarshSandalsStore.csproj",
       "packagesPath": "C:\\Users\\W0785541\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W0785541\\source\\repos\\original_23\\UtkarshSandalsStore\\UtkarshSandalsStore\\obj\\",
+      "outputPath": "C:\\Users\\W0785541\\source\\repos\\a\\UtkarshSandalsStore\\UtkarshSandalsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W0785541\\AppData\\Roaming\\NuGet\\NuGet.Config",
