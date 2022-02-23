@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{0512ED86-EBA4-46E4-A4F3-5CF88055BD1D}|Default">
+  <MonoDevelop.Ide.ItemProperties.UtkarshSandalsStore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UtkarshSandalsStore/Views/Shared/Error.cshtml">
+    <Files>
+      <File FileName="UtkarshSandalsStore/ReadMe.txt" Line="35" Column="1" />
+      <File FileName="UtkarshSandalsStore/Views/Home/Index.cshtml" Line="9" Column="1" />
+      <File FileName="UtkarshSandalsStore/Views/Home/Privacy.cshtml" />
+      <File FileName="UtkarshSandalsStore/Views/Home/AboutUs.cshtml" />
+      <File FileName="UtkarshSandalsStore/Models/HelloWorldController.cs" />
+      <File FileName="UtkarshSandalsStore/Startup.cs" Line="1" Column="1" />
+      <File FileName="UtkarshSandalsStore/Views/HelloWorld/Index.cshtml" Line="8" Column="37" />
+      <File FileName="UtkarshSandalsStore/Views/Shared/_Layout.cshtml" />
+      <File FileName="UtkarshSandalsStore/Views/_ViewStart.cshtml" />
+      <File FileName="UtkarshSandalsStore/Views/HelloWorld/Welcome.cshtml" />
+      <File FileName="UtkarshSandalsStore/Models/Sandal.cs" Line="18" Column="13" />
+      <File FileName="UtkarshSandalsStore/Views/Sandals/Index.cshtml" Line="12" Column="22" />
+      <File FileName="UtkarshSandalsStore/Views/Sandals/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="UtkarshSandalsStore/Views/Sandals/Create.cshtml" Line="1" Column="1" />
+      <File FileName="UtkarshSandalsStore/Views/Sandals/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="UtkarshSandalsStore/Views/Sandals/Details.cshtml" Line="1" Column="1" />
+      <File FileName="UtkarshSandalsStore/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="UtkarshSandalsStore/Views/Shared/Error.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UtkarshSandalsStore" expanded="True">
+            <Node name="UtkarshSandalsStore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Sandals" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Error.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True">
+                      <Node name="css" expanded="True">
+                        <Node name="bootstrap.css" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

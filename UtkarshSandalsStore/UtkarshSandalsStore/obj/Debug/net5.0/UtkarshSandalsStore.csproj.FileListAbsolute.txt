@@ -1,0 +1,1235 @@
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/appsettings.Development.json
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/appsettings.json
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.deps.json
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.runtimeconfig.json
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.runtimeconfig.dev.json
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ref/UtkarshSandalsStore.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.pdb
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/mscorlib.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/netstandard.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.AppContext.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Buffers.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Configuration.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Console.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Core.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Data.Common.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Data.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Drawing.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Globalization.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Memory.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Http.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Mail.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Ping.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Requests.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Security.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Numerics.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ObjectModel.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Claims.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Principal.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Json.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Transactions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ValueTuple.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Web.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Windows.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/WindowsBase.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.Views.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.Views.pdb
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.csproj.AssemblyReference.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.AssemblyInfoInputs.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.AssemblyInfo.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.MvcApplicationPartsAssemblyInfo.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorAssemblyInfo.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorAssemblyInfo.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/scopedcss/bundle/UtkarshSandalsStore.styles.css
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/staticwebassets/UtkarshSandalsStore.StaticWebAssets.Manifest.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.TagHelpers.input.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.TagHelpers.output.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorCoreGenerate.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorTargetAssemblyInfo.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorTargetAssemblyInfo.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.Views.pdb
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.csproj.CopyComplete
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/ref/UtkarshSandalsStore.dll
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.pdb
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.genruntimeconfig.cache
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Home/AboutUs.cshtml.g.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/HelloWorld/Index.cshtml.g.cs
+/Users/utkarsh/Desktop/Project/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/HelloWorld/Welcome.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/appsettings.Development.json
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/appsettings.json
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.exe
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.deps.json
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.runtimeconfig.json
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.runtimeconfig.dev.json
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ref/UtkarshSandalsStore.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.pdb
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Core.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Stores.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/mscorlib.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/netstandard.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.AppContext.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Buffers.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Configuration.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Console.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Core.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Data.Common.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Data.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Drawing.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Globalization.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Memory.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Http.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Mail.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Ping.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Requests.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Security.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Numerics.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ObjectModel.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Claims.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Principal.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Json.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Transactions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ValueTuple.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Web.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Windows.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/WindowsBase.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.Views.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.Views.pdb
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Humanizer.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Composition.Convention.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Composition.Hosting.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Composition.Runtime.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Composition.TypedParts.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Runtime.Caching.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.csproj.AssemblyReference.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.AssemblyInfoInputs.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.AssemblyInfo.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.csproj.CoreCompileInputs.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.MvcApplicationPartsAssemblyInfo.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.MvcApplicationPartsAssemblyInfo.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorAssemblyInfo.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorAssemblyInfo.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/staticwebassets/UtkarshSandalsStore.StaticWebAssets.Manifest.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/staticwebassets/UtkarshSandalsStore.StaticWebAssets.xml
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/scopedcss/bundle/UtkarshSandalsStore.styles.css
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.TagHelpers.input.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.TagHelpers.output.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorCoreGenerate.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/HelloWorld/Index.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/HelloWorld/Welcome.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Home/AboutUs.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorTargetAssemblyInfo.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorTargetAssemblyInfo.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.Views.pdb
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.csproj.CopyComplete
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/ref/UtkarshSandalsStore.dll
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.pdb
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.genruntimeconfig.cache
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Sandals/Create.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Sandals/Delete.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Sandals/Details.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Sandals/Edit.cshtml.g.cs
+D:/St  Clair/Utkarsh Patel/UtkarshSandalsStore/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Sandals/Index.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/appsettings.Development.json
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/appsettings.json
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.StaticWebAssets.xml
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.deps.json
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.runtimeconfig.json
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ref/UtkarshSandalsStore.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.pdb
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/mscorlib.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/netstandard.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.AppContext.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Buffers.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Configuration.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Console.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Core.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Data.Common.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Data.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Drawing.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Globalization.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Memory.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Http.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Mail.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Ping.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Requests.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Security.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Numerics.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ObjectModel.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Claims.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Principal.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.Json.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Transactions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.ValueTuple.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Web.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Windows.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/refs/WindowsBase.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.Views.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/UtkarshSandalsStore.Views.pdb
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Humanizer.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.csproj.AssemblyReference.cache
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.MvcApplicationPartsAssemblyInfo.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorAssemblyInfo.cache
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorAssemblyInfo.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/scopedcss/bundle/UtkarshSandalsStore.styles.css
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/staticwebassets/UtkarshSandalsStore.StaticWebAssets.Manifest.cache
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.TagHelpers.input.cache
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.TagHelpers.output.cache
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorCoreGenerate.cache
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/HelloWorld/Index.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/HelloWorld/Welcome.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Home/AboutUs.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Sandals/Create.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Sandals/Delete.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Sandals/Details.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Sandals/Edit.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Sandals/Index.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorTargetAssemblyInfo.cache
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.RazorTargetAssemblyInfo.cs
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.Views.pdb
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.csproj.CopyComplete
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/ref/UtkarshSandalsStore.dll
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.pdb
+/Users/utkarsh/Downloads/Final_ASP/final_ASP/UtkarshSandalsStore/UtkarshSandalsStore/obj/Debug/net5.0/UtkarshSandalsStore.genruntimeconfig.cache
